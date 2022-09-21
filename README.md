@@ -5,5 +5,5 @@ Es sabido como el auge de la comodidad para que te traigan la comida a casa se h
 
 Por eso que propongo tener al alcance en una misma aplicación todos los productos para potenciar el mercado local para pequeños negocios, en el que los clientes puedan comprar a través de la aplicación y puedan reservar el producto y pasar a recogerlo o que se lo lleven a casa. +
 
-Las zonas estarían divididas por barrios o zonas donde estarían los diferentes negocios cerca del cliente. Eso reduciría también costes de transporte para los comercios.
+Las zonas estarían divididas por barrios o zonas donde estarían los diferentes negocios cerca del cliente. Eso reduciría también costes de transporte para los comercios.+
 Una buena idea del negocio es que a los clientes les permite ver el diferente precio de comprar en los pequeños comercios que en los supermercados, en los cuáles son productos generalmente de mejor calidad y seguramente más baratos. +
