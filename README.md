@@ -1,4 +1,4 @@
-# It's time?
+# It's my time?
 ## Descripción del problema
 Ahora mucha gente cree que entiende de inversiones pero no. Hay mucha incertidumbre en el mercado del dinero. No se sabe que puede pasar hoy, mañana o dentro de un año. Esto es un problema para inversores y para la gente de a pie ya que mucha gente prefiere ahorrar cuando eso realmente es perder dinero.
 
