@@ -14,13 +14,6 @@ Esta se basa en la optimización del tiempo del estudiantado y no tardar tanto t
 Para proporcionar un despliegue y que pueda utilizarlo cualquier persona a bajo coste y en cualquier parte del mundo.
 
 
-
-# Recomendador de Vuelos #IDEA 2
-## Descripción del problema
-Tengo que pensarlo bien para desarrollarlo por escrito.
-
-
-
 # Reserva de asientos en biblioteca UGR #IDEA 3
 ## Descripción del problema
 Vemos como cuando llegan los exámenes las bibliotecas se vuelven un infierno y se hacen colas de espera muy grandes en los que se pierde mucho tiempo.
