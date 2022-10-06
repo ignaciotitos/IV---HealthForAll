@@ -1,9 +1,15 @@
-# MERCABARRIO
+# It's my time?
+## Descripción del problema
+Ahora mucha gente cree que entiende de inversiones pero no. Hay mucha incertidumbre en el mercado del dinero. No se sabe que puede pasar hoy, mañana o dentro de un año. Esto es un problema para inversores y para la gente de a pie ya que mucha gente prefiere ahorrar cuando eso realmente es perder dinero.
 
-## IDEA PRINCIPAL
-Es sabido como el auge de la comodidad para que te traigan la comida a casa se ha normalizado en nuestro tiempo. También es sabido como la mayoría de ventas son de pizzerías o comidas rápidas para tener en casa, pero no existe nada para el mercado local, de barrio, para poder comprar productos on-line de carnicería, pescaderías o fruterías, en el que el cliente tiene que ir especificamente a esos lugares a comprar, y en el que si el cliente va a supermercados allí comprará todo ya que de una ronda puede tener todos los productos antes mencionados.
+## Propuesta 
+Propongo la estimación de si la moneda se va a devaluar o revaluar lo que haría un cambio en la consciencia financiera de las personas, ya que la moneda se devalue quiere decir que la moneda en un tiempo determinado valdrá menos, por lo que es mejor comprar en un futuro, o el caso de que se revalue, es mejor comprar ahora para vender en el futuro.
 
-Por eso que propongo tener al alcance en una misma aplicación todos los productos para potenciar el mercado local para pequeños negocios, en el que los clientes puedan comprar a través de la aplicación y puedan reservar el producto y pasar a recogerlo o que se lo lleven a casa.
+## Logica de Negocio
+Aplicar un modelo de estimación en base a datos explicativos como el PIB, Importaciones, Exportaciones, etc para predecir cuánto valdrá la moneda en un tiempo determinado gracias a modelos logísticos o regresivos. Existen varios modelos LOGIT, o SARIMA, o modelos de regresión para poder estimar cuánto valdrá una moneda y con esto poder decirle a los usuarios, en base a su dinero si quieren poner cuanto tienen, si es mejor comprar ahora, si es mejor ahorrar y esperar o si no importa porque la variación resultante va a ser mínima por lo que no se preocupe. 
 
-Las zonas estarían divididas por barrios o zonas donde estarían los diferentes negocios cerca del cliente. Eso reduciría también costes de transporte para los comercios.
-Una buena idea del negocio es que a los clientes les permite ver el diferente precio de comprar en los pequeños comercios que en los supermercados, en los cuáles son productos generalmente de mejor calidad y seguramente más baratos.
+Los usuarios son las personas que quieran utilizar esta aplicación para entender un poco más la economía y puedan tener conocimiento real de que va a pasar y que estén preparados para el futuro. El cliente en este caso podrían ser los bancos y entidades financieras para estimar la variación del poder adquisitivo de los integrantes de un país o de una ciudad. Se le venderían los datos de los usuarios.
+
+## La nube
+Para así alojar la aplicación en la web.
+
