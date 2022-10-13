@@ -13,6 +13,6 @@ Los usuarios son las personas que quieran utilizar esta aplicación para entende
 ## La nube
 Para así alojar la aplicación en la web.
 
-## LINKS
+## Documentación
 - [User Journeys](https://github.com/ignaciotitos/IV---HealthForAll/blob/objetivo-1/docs/user-stories.md)
 - [Milestones](https://github.com/ignaciotitos/IV---HealthForAll/blob/objetivo-1/docs/milestones.md)
