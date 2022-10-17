@@ -1,4 +1,4 @@
-- [ ] [[M0] Crear estructura de datos para recoger las variables dependientes](https://github.com/ignaciotitos/IV---HealthForAll/milestone/1) 
+- [ ] [[M0] [M0] Crear estructura de datos para recoger las variables dependientes y que el cliente pueda ver estos datos.](https://github.com/ignaciotitos/IV---HealthForAll/milestone/1) 
 > Esta estructura va a necesitarse para la posterior predicción del valor de la moneda.
 - [ ] [[M1] Crear y gestionar a los usuarios](https://github.com/ignaciotitos/IV---HealthForAll/milestone/3)
 > Vamos a necesitar crear a los usuarios con su nombre, apellidos y nombre de usuario y un campo en el que puede ser optativo para poner su cantidad de dinero actual, y otro campo en el que 
