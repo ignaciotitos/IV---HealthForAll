@@ -1,11 +1,9 @@
 # Users
 ## Damián
-Este personaje de 56 años de edad quiere saber cuánto va a valer la moneda pero no se fía de poner su dinero en la aplicación, ya que no le da confianza. Solo quiere 
-ver cuánto va a ser el porcentaje de subida y bajada.
+Este personaje de 56 años de edad, funcionario y acomodado, no entiende mucho de economía, ve mucho la televisión y no le queda nada claro. Está al tanto de todo en internet pero no consigue sacar sus propios cálculos.
 
 ## José
-José tiene 28 años, está trabajando y quiere poner un montante de dinero que no es su montante total para saber cuánto va a ser su dinero resultante en un tiempo determinado. 
+José tiene 28 años, está trabajando en una multinacional de RRHH, con riesgo y responsabilidades, tampoco entiende de economía. No quiere desperdiciar tiempo calculándo cosas que no entiende y prefiere que se lo den todo masticado.
 
 ## Martín
-Martín quiere ver cuánto va a valer su dinero en un tiempo determinado y quiere que la aplicación
-le pueda decir si es mejor que invierta o ahorre dependiendo de la cantidad que vaya a disponer.
+Martín sí le interesa la economía, aunque no es su campo. Dispone de dinero y es una persona que le gusta escuchar diferentes puntos de vista, escucha más que habla y siempre está dispuesto a tomar riesgos si ve un beneficio propio.
