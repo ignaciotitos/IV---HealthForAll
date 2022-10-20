@@ -4,9 +4,8 @@ Este personaje de 56 años de edad quiere saber cuánto va a valer la moneda per
 ver cuánto va a ser el porcentaje de subida y bajada.
 
 ## José
-José tiene 28 años, está trabajando y quiere poner un montante de dinero que no es su montante total para saber cuánto va a ser su dinero resultante en un tiempo 
-determinado. 
+José tiene 28 años, está trabajando y quiere poner un montante de dinero que no es su montante total para saber cuánto va a ser su dinero resultante en un tiempo determinado. 
 
-## BBVA
-Este banco quiere ver cuánto es la media y los datos resultantes del dinero de las personas, cuántas personas han utilizado esta calculadora y si los datos resultantes 
-son comparables con los que le salen en sus cálculos propios.
+## Martín
+Martín quiere ver cuánto va a valer su dinero en un tiempo determinado y quiere que la aplicación
+le pueda decir si es mejor que invierta o ahorre dependiendo de la cantidad que vaya a disponer.
