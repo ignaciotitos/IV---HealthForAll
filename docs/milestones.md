@@ -1,5 +1,5 @@
-- [ ] [[M0] Método para la creación de una estructura de datos para recoger las variables dependientes y a los usuarios](https://github.com/ignaciotitos/IV---HealthForAll/milestone/1) 
-> Diseño de una estructura de datos en la que almacenar las variables dependientes para la evaluación de la moneda. También se creará una estructura de datos para almacenar a los usuarios en la aplicación con la información necesaria para representarlos.
+- [ ] [[M0] Módulo que defina la estructura de datos para recoger las variables dependientes y los usuarios](https://github.com/ignaciotitos/IV---HealthForAll/milestone/1) 
+> Diseño e implementación de un modelado de los datos necesarios para solucionar el problema. Obtendremos las variables dependientes y la creación de los usuarios.
 - [ ] [[M1] Implementar la lógica de negocio](https://github.com/ignaciotitos/IV---HealthForAll/milestone/4)
 > Implementación del modelo para predecir la moneda.
 - [ ] [[M2] Implementación de análisis de datos y poder recomendar inversiones o ahorros](https://github.com/ignaciotitos/IV---HealthForAll/milestone/2)
