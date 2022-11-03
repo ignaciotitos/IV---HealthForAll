@@ -1,5 +1,5 @@
-- [ ] [[M0] Fichero de la implementación del modelo de datos para cada moneda](https://github.com/ignaciotitos/IV---HealthForAll/milestone/1) 
-> Diseño de un modelo del problema definiendo las clases con el fin de organizar y estructurar las variables que influyen en la variación de cada moneda, como pueden ser el PIB, Importaciones, Exportaciones, EURIBOR, indicadores económicos, etc. Una vez que tenga la estructura, podré plasmar los resultados con el fin de realizar un objetivo de predicción.
+- [ ] [[M0] Diseñar modelo del problema](https://github.com/ignaciotitos/IV---HealthForAll/milestone/1) 
+> Creación de ficheros definiendo las clases con el fin de organizar y estructurar las variables que influyen en la variación de cada moneda, como pueden ser el PIB, Importaciones, Exportaciones, EURIBOR, indicadores económicos, etc. Una vez que tenga la estructura, podré plasmar los esta información bien estructurada.
 - [ ] [[M1] Algoritmo de predicción de la moneda](https://github.com/ignaciotitos/IV---HealthForAll/milestone/4)
 > Diseño e implementación del sistema para predecir la moneda. Utilizar las variables dependientes organizadas en el M0 para obtener el valor de esta.
 - [ ] [[M2] Algoritmo de recomendación de inversión](https://github.com/ignaciotitos/IV---HealthForAll/milestone/2)
