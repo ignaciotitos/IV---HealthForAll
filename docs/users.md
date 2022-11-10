@@ -1,7 +1,4 @@
 # Users
-## Damián
-Este personaje de 56 años de edad, funcionario y acomodado, no entiende mucho de economía, ve mucho la televisión y no le queda nada claro. Está al tanto de todo en internet pero no consigue sacar sus propios cálculos.
-
 ## José
 José tiene 28 años, está trabajando en una multinacional de RRHH, con riesgo y responsabilidades, tampoco entiende de economía. No quiere desperdiciar tiempo calculándo cosas que no entiende y prefiere que se lo den todo masticado.
 
